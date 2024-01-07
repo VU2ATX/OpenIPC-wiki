@@ -91,6 +91,7 @@ OpenIPC Wiki
 - [SoC manufacturers](en/hardware-soc-manufacturers.md)
 - [Image sensors manufacturers](en/hardware-sensor-manufacturers.md)
 - [IPC boards manufacturers](en/hardware-board-manufacturers.md)
+- [SoC Hi3516 and Hi3518 family Comparison Charts](en/hardware-soc-manufacturers.md)
 
 ### Cameras
 
